@@ -69,7 +69,7 @@ Change any of them in **Settings → Hotkeys**. While you're drawing, **Esc** re
 ## Good to know
 
 - **Screen sharing (Teams, Zoom):** share your *entire screen*, not a single window, so people see your drawings.
-- **Updates** arrive automatically. Summit Pen tells you when one is ready; click the notice to restart and update.
+- **Updates** arrive automatically. When one is waiting, a notice pops up and a **green dot** appears on the toolbar logo. Click the notice, or the logo then **Install update**. On Windows it also installs by itself the next time Summit Pen closes; on a Mac it opens the installer so you can drag Summit Pen into Applications. To be asked first, untick **Settings → Account → Download and install updates automatically**.
 - **Offline:** Summit Pen keeps working without the internet for up to 30 days, then needs to reconnect once to check your code.
 - **Your code** works on a limited number of computers. If you replace a computer, ask Blue Summit to free up the old one.
 - **Uninstall:** Windows: **Settings → Apps → Summit Pen → Uninstall**. Mac: drag Summit Pen from Applications to the Bin.
