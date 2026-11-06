@@ -1,31 +1,33 @@
-# Summit Pen
+# Drawcast
 
 Draw, highlight and annotate on top of anything on your screen while you teach: slides, browsers, videos, anything. Works on Windows and Mac, with a pen tablet, touchscreen or mouse.
 
-Summit Pen is for **Blue Summit Consulting Group instructors**. You need an access code from Blue Summit to use it.
+> **Drawcast is the new name for Summit Pen.** If you already have Summit Pen, it updates itself to Drawcast. Your access code, settings and drawings carry over.
+
+Drawcast is for **Blue Summit Consulting Group instructors**. You need an access code from Blue Summit to use it.
 
 ## Download
 
 | Computer | Download |
 |---|---|
-| **Windows 10 or 11** | [Summit-Pen-Setup.exe](https://github.com/BlueSummitCG/summit-pen-releases/releases/latest/download/Summit-Pen-Setup.exe) |
-| **Mac** (macOS 12 or newer, Apple silicon or Intel) | [Summit-Pen-mac.dmg](https://github.com/BlueSummitCG/summit-pen-releases/releases/latest/download/Summit-Pen-mac.dmg) |
+| **Windows 10 or 11** | [Drawcast-Setup.exe](https://github.com/BlueSummitCG/summit-pen-releases/releases/latest/download/Drawcast-Setup.exe) |
+| **Mac** (macOS 12 or newer, Apple silicon or Intel) | [Drawcast-mac.dmg](https://github.com/BlueSummitCG/summit-pen-releases/releases/latest/download/Drawcast-mac.dmg) |
 
 ## Install on Windows
 
-1. Run **Summit-Pen-Setup.exe**. It installs just for you; no administrator rights are needed.
-2. If Windows shows **"Windows protected your PC"**, click **More info → Run anyway**. Summit Pen isn't signed with a paid Microsoft certificate yet, so Windows doesn't recognise it.
-3. Summit Pen opens and adds a desktop icon. Enter the **access code** Blue Summit sent you (it looks like `SP-XXXX-XXXX-XXXX`).
+1. Run **Drawcast-Setup.exe**. It installs just for you; no administrator rights are needed.
+2. If Windows shows **"Windows protected your PC"**, click **More info → Run anyway**. Drawcast isn't signed with a paid Microsoft certificate yet, so Windows doesn't recognise it.
+3. Drawcast opens and adds a desktop icon. Enter the **access code** Blue Summit sent you (it looks like `SP-XXXX-XXXX-XXXX`).
 
 ## Install on a Mac
 
-1. Open **Summit-Pen-mac.dmg** and drag **Summit Pen** into **Applications**.
-2. Open Summit Pen from Applications. The first time, macOS says it can't check the app for malicious software. Click **Done**, then open **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to Summit Pen. Confirm, and you're in. You only do this once.
+1. Open **Drawcast-mac.dmg** and drag **Drawcast** into **Applications**.
+2. Open Drawcast from Applications. The first time, macOS says it can't check the app for malicious software. Click **Done**, then open **System Settings → Privacy & Security**, scroll down and click **Open Anyway** next to Drawcast. Confirm, and you're in. You only do this once.
 3. Enter the **access code** Blue Summit sent you.
-4. Summit Pen lives in the **menu bar** at the top-right of the screen (the pen-nib icon), not in the Dock.
-5. To include other apps in Summit Pen screenshots, allow it under **System Settings → Privacy & Security → Screen Recording**, then reopen Summit Pen.
+4. Drawcast lives in the **menu bar** at the top-right of the screen (the pen-nib icon), not in the Dock.
+5. To include other apps in Drawcast screenshots, allow it under **System Settings → Privacy & Security → Screen Recording**, then reopen Drawcast.
 
-## Using Summit Pen
+## Using Drawcast
 
 A toolbar sits on the side of your screen. Drag it by the round logo at the top to move it.
 
@@ -69,10 +71,10 @@ Change any of them in **Settings → Hotkeys**. While you're drawing, **Esc** re
 ## Good to know
 
 - **Screen sharing (Teams, Zoom):** share your *entire screen*, not a single window, so people see your drawings.
-- **Updates** arrive automatically. When one is waiting, a notice pops up and a **green dot** appears on the toolbar logo. Click the notice, or the logo then **Install update**. On Windows it also installs by itself the next time Summit Pen closes; on a Mac it opens the installer so you can drag Summit Pen into Applications. To check yourself, click the logo, then **Check for updates**. To be asked before installing, untick **Settings → General → Download and install updates automatically**.
+- **Updates** arrive automatically. When one is waiting, a notice pops up and a **green dot** appears on the toolbar logo. Click the notice, or the logo then **Install update**. On Windows it also installs by itself the next time Drawcast closes; on a Mac it opens the installer so you can drag Drawcast into Applications. To check yourself, click the logo, then **Check for updates**. To be asked before installing, untick **Settings → General → Download and install updates automatically**.
 - **Help:** click the logo, then **Help**, to open this guide.
-- **One-time activation:** you enter your code once on each computer. After that Summit Pen starts straight away, with or without the internet, after restarts, updates and even a reinstall.
+- **One-time activation:** you enter your code once on each computer. After that Drawcast starts straight away, with or without the internet, after restarts, updates and even a reinstall.
 - **Your code** works on a limited number of computers. If you replace a computer, ask Blue Summit to free up the old one.
-- **Uninstall:** Windows: **Settings → Apps → Summit Pen → Uninstall**. Mac: drag Summit Pen from Applications to the Bin.
+- **Uninstall:** Windows: **Settings → Apps → Drawcast → Uninstall**. Mac: drag Drawcast from Applications to the Bin.
 
 Questions? Contact Blue Summit Consulting Group.
