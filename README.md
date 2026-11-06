@@ -31,11 +31,11 @@ A toolbar sits on the side of your screen. Drag it by the round logo at the top 
 
 | Button | What it does |
 |---|---|
-| **Logo** | Drag to move the toolbar. Click for the menu (Settings, highlighted cursor, hide ink, exit). When the toolbar is collapsed, click the logo to bring it back. |
+| **Logo** | Drag to move the toolbar. Click for the menu (Settings, Check for updates, Help, highlighted cursor, hide ink, exit). When the toolbar is collapsed, click the logo to bring it back. |
 | **Eye** | Collapses the toolbar to just the logo, out of your way. |
 | **Arrow** | Cursor: use your apps normally. Your drawings stay on screen. |
-| **Pen** | Draw. With a tablet pen, pressing harder draws thicker. |
-| **Highlighter** | See-through marker. |
+| **Pen** | Draw. With a tablet pen, pressing harder draws thicker. Click it again for its size and **Smoothing**, which irons out shaky lines as you draw. |
+| **Highlighter** | See-through marker. Click it again for its size and Smoothing. |
 | **Shapes** | Line, arrow, rectangle, ellipse. Hold **Shift** for straight angles and perfect squares and circles. |
 | **T** | Text: click anywhere and type. **Enter** finishes. |
 | **Eraser** | Erases whole strokes, or rubs out part of a stroke (your choice in its options). The eraser end of a tablet pen also erases. |
