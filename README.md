@@ -35,16 +35,18 @@ A toolbar sits on the side of your screen. Drag it by the round logo at the top 
 |---|---|
 | **Logo** | Drag to move the toolbar. Click for the menu (Settings, Check for updates, Help, highlighted cursor, hide ink, exit). When the toolbar is collapsed, click the logo to bring it back. |
 | **Eye** | Collapses the toolbar to just the logo, out of your way. |
-| **Arrow** | Cursor: use your apps normally. Your drawings stay on screen. |
+| **Arrow** | Cursor: use your apps normally. Your drawings stay on screen, and an open whiteboard stays open. Drawcast starts with the cursor and only switches tools when you pick one. On a board, the arrow also selects (see below). |
+| **Select** (dashed box) | Pick up drawings, shapes and text to change them. Click one, **Shift**-click to add more, or drag a box around several. Then drag to move, drag a corner to resize (it keeps its shape; hold **Shift** to resize freely), drag a side to stretch or squash, **Ctrl**+drag a side to slant, or drag the round handle on top to rotate (**Shift** snaps to 15°). **Alt**+drag makes a copy. Pick a colour or size to change everything selected. Double-click text to edit it. |
 | **Pen** | Draw. With a tablet pen, pressing harder draws thicker. Click it again for its size and **Smoothing**, which irons out shaky lines as you draw. |
 | **Highlighter** | See-through marker. Click it again for its size and Smoothing. |
-| **Shapes** | Line, arrow, rectangle, ellipse. Hold **Shift** for straight angles and perfect squares and circles. |
-| **T** | Text: click anywhere and type. **Enter** finishes. |
+| **Shapes** | Line, arrow, double arrow, rectangle, rounded rectangle, ellipse, triangle, right triangle, diamond, pentagon, hexagon, star, heart and speech bubble; right-click to pick one. Choose **Solid**, **Dashed** or **Dotted** lines there too (a dashed arrow keeps a solid head). Hold **Shift** for straight angles and shapes in proportion (perfect squares, circles, stars). |
+| **T** | Text: click anywhere and type. **Enter** finishes, **Shift+Enter** adds a line. Click **T** again for its options: **font**, **bold / italic / underline / strikethrough**, **alignment**, **line spacing** and size. They apply to the text you're typing, or to selected text. Drawcast comes with 32 free fonts (sans serif, serif, display, handwriting, monospace). **Show fonts installed on this computer** lists your own fonts too, including Adobe Fonts activated in Creative Cloud. **+ Add font files…** adds fonts you've downloaded or bought (TTF, OTF, WOFF, WOFF2); Drawcast keeps its own copy, and **✕** removes it again. Check that a font's licence lets you use it this way. |
 | **Eraser** | Erases whole strokes, or rubs out part of a stroke (your choice in its options). The eraser end of a tablet pen also erases. |
 | **Dot + number** | The size of the current tool: from 0.5 px up, in fine steps. Or scroll the mouse wheel while drawing. |
 | **Stopwatch** | Fading ink: your marks disappear on their own after a few seconds. |
-| **Undo / Redo / Bin** | Undo, redo, and clear everything (clearing can be undone too). |
-| **Easel** | Whiteboard or blackboard over the whole screen. Each board keeps its own drawings. |
+| **Undo / Redo / Bin** | Undo, redo, and clear everything on the screen or board, pictures included (clearing can be undone too). |
+| **Easel** | Boards: a whiteboard or blackboard over the screen with the toolbar. Click to reopen the board you used last (or start your first); click again to close it. **Right-click for all your boards**: start a **new whiteboard** or **blackboard** (named "Whiteboard 1", "Whiteboard 2"… automatically), open an older one, **✎** rename it, or **🗑** delete it (a notice lets you undo for a few seconds). Boards save themselves as you draw and are still there next time. With two or more screens you can show a board on all of them. **Ctrl+Shift+W / B** reopen your last whiteboard / blackboard. |
+| **Pictures and videos** | On a board: **Add picture or video…** in the board list, drag files onto the board, or paste a picture with **Ctrl+V** (a screenshot, an image copied in a browser). Pictures: PNG, JPG, GIF, WebP, BMP, SVG. Videos: MP4 (H.264) or WebM; some .mov files won't play. They sit beneath your ink, so you can draw on them, and you move, resize, rotate and delete them like drawings. A small bar over a selected video plays and pauses it (or double-click the video), turns the sound on or off and makes it repeat; ▲ / ▼ bring a picture forward or send it back (**Ctrl+]** / **Ctrl+[**). Drawcast keeps its own copy of each file in the board. |
 | **Camera / Clipboard** | Screenshot (with your drawings), saved to your Desktop or copied to the clipboard. Drag an area, or click once for the whole screen. |
 | **Colours** | The big swatch opens every colour: picker, hex codes, transparency, saved colours. The six small dots are quick colours; right-click one to replace it with the current colour. |
 
@@ -66,7 +68,9 @@ They work everywhere, even while another app is in front. On a Mac, **Ctrl** is 
 | Redo | Ctrl+Shift+8 | Text | Ctrl+Shift+T |
 | Quick colours 1–6 | Alt+Shift+1 … 6 | Whiteboard / Blackboard | Ctrl+Shift+W / B |
 
-Change any of them in **Settings → Hotkeys**. While you're drawing, **Esc** returns to the cursor and **Ctrl+Z** (Mac: **⌘Z**) undoes.
+Change any of them in **Settings → Hotkeys** (Select has no hotkey until you give it one). While you're drawing, **Esc** returns to the cursor and **Ctrl+Z** (Mac: **⌘Z**) undoes.
+
+With something selected: **Delete** removes it, the **arrow keys** nudge it (**Shift** for bigger steps), **Ctrl+C / Ctrl+V** copy and paste, **Ctrl+D** duplicates, **Ctrl+A** selects everything, and **Esc** lets go.
 
 ## Good to know
 
