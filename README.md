@@ -34,7 +34,7 @@ A toolbar sits on the side of your screen. Drag it by the round logo at the top 
 | Button | What it does |
 |---|---|
 | **Logo** | Drag to move the toolbar. Click for the menu (Settings, Check for updates, Help, highlighted cursor, hide ink, exit). When the toolbar is collapsed, click the logo to bring it back. |
-| **Eye** | Collapses the toolbar to just the logo, out of your way. |
+| **Eye** | Collapses the toolbar to just the logo, out of your way. The tool you're using stays picked and an open board stays open, so you can keep drawing with more room; switch tools with the hotkeys below. |
 | **Arrow** | Cursor: use your apps normally. Your drawings stay on screen, and an open whiteboard stays open. Drawcast starts with the cursor and only switches tools when you pick one. On a board, the arrow also selects (see below). |
 | **Select** (dashed box) | Pick up drawings, shapes and text to change them. Click one, **Shift**-click to add more, or drag a box around several. Then drag to move, drag a corner to resize (it keeps its shape; hold **Shift** to resize freely), drag a side to stretch or squash, **Ctrl**+drag a side to slant, or drag the round handle on top to rotate (**Shift** snaps to 15°). **Alt**+drag makes a copy. Pick a colour or size to change everything selected. Double-click text to edit it. |
 | **Pen** | Draw. With a tablet pen, pressing harder draws thicker. Click it again for its size and **Smoothing**, which irons out shaky lines as you draw. |
@@ -67,8 +67,9 @@ They work everywhere, even while another app is in front. On a Mac, **Ctrl** is 
 | Clear all | Ctrl+Shift+7 | Rectangle / Ellipse | Ctrl+Shift+R / E |
 | Redo | Ctrl+Shift+8 | Text | Ctrl+Shift+T |
 | Quick colours 1–6 | Alt+Shift+1 … 6 | Whiteboard / Blackboard | Ctrl+Shift+W / B |
+| Select | Ctrl+Shift+Q | | |
 
-Change any of them in **Settings → Hotkeys** (Select has no hotkey until you give it one). While you're drawing, **Esc** returns to the cursor and **Ctrl+Z** (Mac: **⌘Z**) undoes.
+Tool hotkeys work while the toolbar is collapsed too. The other shapes (star, triangle and so on) have no hotkey until you give them one. Change any of them in **Settings → Hotkeys**. While you're drawing, **Esc** returns to the cursor and **Ctrl+Z** (Mac: **⌘Z**) undoes.
 
 With something selected: **Delete** removes it, the **arrow keys** nudge it (**Shift** for bigger steps), **Ctrl+C / Ctrl+V** copy and paste, **Ctrl+D** duplicates, **Ctrl+A** selects everything, and **Esc** lets go.
 
