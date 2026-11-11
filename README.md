@@ -58,18 +58,18 @@ They work everywhere, even while another app is in front. On a Mac, **Ctrl** is 
 
 | Action | Hotkey | Action | Hotkey |
 |---|---|---|---|
-| Show / hide ink | Ctrl+Shift+1 | Previous colour | Ctrl+Shift+9 |
-| Cursor (use your apps) | Ctrl+Shift+2 | Show / hide toolbar | Ctrl+Shift+0 |
-| Pen | Ctrl+Shift+3 | Fading ink | Ctrl+Shift+F |
-| Highlighter | Ctrl+Shift+4 | Screenshot | Ctrl+Shift+PrtSc (Mac: ⌃⇧S) |
-| Eraser | Ctrl+Shift+5 | Bigger / smaller | Ctrl+Shift+] / [ |
-| Undo | Ctrl+Shift+6 | Line / Arrow | Ctrl+Shift+L / A |
-| Clear all | Ctrl+Shift+7 | Rectangle / Ellipse | Ctrl+Shift+R / E |
-| Redo | Ctrl+Shift+8 | Text | Ctrl+Shift+T |
-| Quick colours 1–6 | Alt+Shift+1 … 6 | Whiteboard / Blackboard | Ctrl+Shift+W / B |
-| Select | Ctrl+Shift+Q | | |
+| Cursor (use your apps) | Ctrl+Shift+2 | Show / hide ink | Ctrl+Shift+1 |
+| Select | Ctrl+Shift+Q | Undo / Redo | Ctrl+Shift+6 / 8 |
+| Pen | Ctrl+Shift+P | Clear all | Ctrl+Shift+7 |
+| Highlighter | Ctrl+Shift+H | Previous colour | Ctrl+Shift+9 |
+| Eraser | Ctrl+Shift+E | Show / hide toolbar | Ctrl+Shift+0 |
+| Text | Ctrl+Shift+T | Fading ink | Ctrl+Shift+F |
+| Line / Arrow | Ctrl+Shift+L / A | Bigger / smaller | Ctrl+Shift+] / [ |
+| Rectangle | Ctrl+Shift+R | Screenshot | Ctrl+Shift+PrtSc (Mac: ⌃⇧S) |
+| Ellipse (circle) | Ctrl+Shift+C | Whiteboard / Blackboard | Ctrl+Shift+W / B |
+| Quick colours 1–6 | Alt+Shift+1 … 6 | | |
 
-Tool hotkeys work while the toolbar is collapsed too. The other shapes (star, triangle and so on) have no hotkey until you give them one. Change any of them in **Settings → Hotkeys**. While you're drawing, **Esc** returns to the cursor and **Ctrl+Z** (Mac: **⌘Z**) undoes.
+Tool hotkeys work while the toolbar is collapsed too. The other shapes (star, triangle and so on) have no hotkey until you give them one. Change any of them in **Settings → Hotkeys** (click the logo, then Settings). If you'd set your own hotkeys before, Drawcast keeps them. While you're drawing, **Esc** returns to the cursor and **Ctrl+Z** (Mac: **⌘Z**) undoes.
 
 With something selected: **Delete** removes it, the **arrow keys** nudge it (**Shift** for bigger steps), **Ctrl+C / Ctrl+V** copy and paste, **Ctrl+D** duplicates, **Ctrl+A** selects everything, and **Esc** lets go.
 
